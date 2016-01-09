@@ -19,6 +19,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
+    self.view.backgroundColor   = [UIColor lightGrayColor];
+    
     OptionButtonView *optionButtonView                 = [[OptionButtonView alloc]initWithFrame:CGRectMake(0,100, self.view.frame.size.width, ViewHeight)];
     [optionButtonView load];
     [self.view addSubview:optionButtonView];
