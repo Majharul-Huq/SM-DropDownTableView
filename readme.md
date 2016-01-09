@@ -16,4 +16,4 @@ Majharul Huq, sumancsc@gmail.com
 
 ## License
 
-MWPhotoBrowser is available under the MIT license. See the LICENSE file for more info.
+DropDownTableView is available under the MIT license. See the LICENSE file for more info.
